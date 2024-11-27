@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\ETL\VGSyncSite</_PublishTargetUrl>
+    <History>True|2024-07-02T07:10:06.3757377Z;True|2024-07-02T13:56:32.5454123+07:00;True|2024-07-02T13:54:40.3727884+07:00;True|2024-07-02T13:52:28.6830417+07:00;False|2024-07-02T13:52:19.4427602+07:00;True|2024-07-02T13:48:41.2907706+07:00;True|2024-07-02T11:31:33.0837378+07:00;True|2023-11-28T10:45:24.1378159+07:00;True|2023-11-14T22:19:16.4271460+07:00;True|2023-11-13T17:36:10.7175402+07:00;True|2023-10-17T21:14:59.1522265+07:00;True|2022-08-31T12:20:22.8878491+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

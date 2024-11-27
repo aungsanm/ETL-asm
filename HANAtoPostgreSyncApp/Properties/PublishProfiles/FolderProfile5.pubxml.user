@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Vanguard2\SyncSite\Site</_PublishTargetUrl>
+    <History>True|2022-12-04T09:29:50.6678427Z;True|2022-12-04T14:45:20.1915965+06:30;False|2022-12-04T14:43:00.5283914+06:30;False|2022-12-04T14:40:50.1957858+06:30;False|2022-12-04T14:39:56.9041338+06:30;True|2022-09-27T18:56:36.8469013+06:30;False|2022-09-27T18:55:10.8473969+06:30;False|2022-09-27T18:53:13.7307800+06:30;True|2022-09-02T18:07:45.5635908+06:30;True|2022-09-02T15:21:48.5959214+06:30;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=192.168.31.101%3b port=5432%3b user id = sap%3b password = sap2022%3b database=postgres%3b pooling = true%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="HANAtoPostgreSyncApp.Models.DataContext">
+      <Value>Server=192.168.31.101%3b port=5432%3b user id = sap%3b password = sap2022%3b database=postgres%3b pooling = true%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

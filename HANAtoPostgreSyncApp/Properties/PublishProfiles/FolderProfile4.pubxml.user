@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\CCSPublished</_PublishTargetUrl>
+    <History>True|2022-08-31T07:29:19.4097956Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=127.0.0.1%3b port=5432%3b user id = postgres%3b password = postgres%3b database=postgres%3b pooling = true%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="HANAtoPostgreSyncApp.Models.DataContext">
+      <Value>Server=127.0.0.1%3b port=5432%3b user id = postgres%3b password = postgres%3b database=postgres%3b pooling = true%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

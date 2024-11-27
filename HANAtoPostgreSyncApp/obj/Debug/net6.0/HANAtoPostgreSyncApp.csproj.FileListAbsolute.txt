@@ -1,0 +1,823 @@
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.AssemblyReference.cache
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfoInputs.cache
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfo.cs
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CoreCompileInputs.cache
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cs
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cache
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cache
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cs
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.Development.json
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.json
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.staticwebassets.runtime.json
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.exe
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.deps.json
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.runtimeconfig.json
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Humanizer.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.Bulk.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Data.Odbc.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\scopedcss\bundle\HANAtoPostgreSyncApp.styles.css
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CopyComplete
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\refint\HANAtoPostgreSyncApp.dll
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.genruntimeconfig.cache
+D:\SVN\Vanguard\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\ref\HANAtoPostgreSyncApp.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.json
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.staticwebassets.runtime.json
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.exe
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.deps.json
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.runtimeconfig.json
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Humanizer.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.Bulk.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Data.Odbc.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.AssemblyReference.cache
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfoInputs.cache
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfo.cs
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CoreCompileInputs.cache
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cache
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cs
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\scopedcss\bundle\HANAtoPostgreSyncApp.styles.css
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CopyComplete
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\refint\HANAtoPostgreSyncApp.dll
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.genruntimeconfig.cache
+D:\Uneecops\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\ref\HANAtoPostgreSyncApp.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.json
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.staticwebassets.runtime.json
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.exe
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.deps.json
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.runtimeconfig.json
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Humanizer.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.Bulk.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Data.Odbc.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.AssemblyReference.cache
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfoInputs.cache
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfo.cs
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CoreCompileInputs.cache
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cache
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cs
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\scopedcss\bundle\HANAtoPostgreSyncApp.styles.css
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CopyComplete
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\refint\HANAtoPostgreSyncApp.dll
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.genruntimeconfig.cache
+D:\Uneecops\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\ref\HANAtoPostgreSyncApp.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.json
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.staticwebassets.runtime.json
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.exe
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.deps.json
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.runtimeconfig.json
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\EntityFramework.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Humanizer.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.Bulk.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Data.Odbc.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.AssemblyReference.cache
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfoInputs.cache
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfo.cs
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CoreCompileInputs.cache
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cache
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cs
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\scopedcss\bundle\HANAtoPostgreSyncApp.styles.css
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CopyComplete
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\refint\HANAtoPostgreSyncApp.dll
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.genruntimeconfig.cache
+C:\Sync Service\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\ref\HANAtoPostgreSyncApp.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.Development.json
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.json
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.staticwebassets.runtime.json
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.exe
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.deps.json
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.runtimeconfig.json
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\EntityFramework.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Humanizer.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.Bulk.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.CodeDom.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Data.Odbc.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.AssemblyReference.cache
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfoInputs.cache
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfo.cs
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CoreCompileInputs.cache
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cs
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cache
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cache
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cs
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\scopedcss\bundle\HANAtoPostgreSyncApp.styles.css
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CopyComplete
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\refint\HANAtoPostgreSyncApp.dll
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.genruntimeconfig.cache
+D:\HANAtoPostgreSyncApp\HANAtoPostgreSyncApp\obj\Debug\net6.0\ref\HANAtoPostgreSyncApp.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.json
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.staticwebassets.runtime.json
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.exe
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.deps.json
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.runtimeconfig.json
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\EntityFramework.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Humanizer.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.Bulk.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.CodeDom.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Data.Odbc.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.AssemblyReference.cache
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfoInputs.cache
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfo.cs
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CoreCompileInputs.cache
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cache
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cs
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\scopedcss\bundle\HANAtoPostgreSyncApp.styles.css
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CopyComplete
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\refint\HANAtoPostgreSyncApp.dll
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.genruntimeconfig.cache
+D:\Vanguard\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\ref\HANAtoPostgreSyncApp.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.json
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.staticwebassets.runtime.json
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.exe
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.deps.json
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.runtimeconfig.json
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Humanizer.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.Bulk.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Data.Odbc.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.AssemblyReference.cache
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfoInputs.cache
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfo.cs
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CoreCompileInputs.cache
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cache
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cs
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\scopedcss\bundle\HANAtoPostgreSyncApp.styles.css
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CopyComplete
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\refint\HANAtoPostgreSyncApp.dll
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.genruntimeconfig.cache
+D:\Vanguard2\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\ref\HANAtoPostgreSyncApp.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.Development.json
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.json
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.staticwebassets.runtime.json
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.exe
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.deps.json
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.runtimeconfig.json
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Humanizer.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.Bulk.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Data.Odbc.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.AssemblyReference.cache
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfoInputs.cache
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfo.cs
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CoreCompileInputs.cache
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cs
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cache
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cache
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cs
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\scopedcss\bundle\HANAtoPostgreSyncApp.styles.css
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CopyComplete
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\refint\HANAtoPostgreSyncApp.dll
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.genruntimeconfig.cache
+D:\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\ref\HANAtoPostgreSyncApp.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.json
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.staticwebassets.runtime.json
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.exe
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.deps.json
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.runtimeconfig.json
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.Bulk.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Data.Odbc.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.AssemblyReference.cache
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfoInputs.cache
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfo.cs
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CoreCompileInputs.cache
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cache
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cs
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\scopedcss\bundle\HANAtoPostgreSyncApp.styles.css
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CopyComplete
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\refint\HANAtoPostgreSyncApp.dll
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.genruntimeconfig.cache
+C:\Users\CEL0092\Downloads\VGSite\VGSite\SyncSite\HANAtoPostgreSyncApp\obj\Debug\net6.0\ref\HANAtoPostgreSyncApp.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.Development.json
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.json
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.staticwebassets.runtime.json
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.exe
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.deps.json
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.runtimeconfig.json
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Humanizer.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.Bulk.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Data.Odbc.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.AssemblyReference.cache
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfoInputs.cache
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfo.cs
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CoreCompileInputs.cache
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cs
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cache
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cache
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cs
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\scopedcss\bundle\HANAtoPostgreSyncApp.styles.css
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CopyComplete
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\refint\HANAtoPostgreSyncApp.dll
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.genruntimeconfig.cache
+D:\ETLRemoval\VGSite\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\ref\HANAtoPostgreSyncApp.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.Development.json
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.json
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.staticwebassets.runtime.json
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.exe
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.deps.json
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.runtimeconfig.json
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Humanizer.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.Bulk.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.AssemblyReference.cache
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfoInputs.cache
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfo.cs
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CoreCompileInputs.cache
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cs
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cache
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cache
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cs
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\scopedcss\bundle\HANAtoPostgreSyncApp.styles.css
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CopyComplete
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\refint\HANAtoPostgreSyncApp.dll
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.genruntimeconfig.cache
+D:\ASm\PJ_CCS_ETL_Site-main\HANAtoPostgreSyncApp\obj\Debug\net6.0\ref\HANAtoPostgreSyncApp.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.Development.json
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.json
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.staticwebassets.runtime.json
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.exe
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.deps.json
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.runtimeconfig.json
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\Humanizer.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.Bulk.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.AssemblyReference.cache
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfoInputs.cache
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfo.cs
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CoreCompileInputs.cache
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cs
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cache
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cache
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cs
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\obj\Debug\net6.0\scopedcss\bundle\HANAtoPostgreSyncApp.styles.css
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CopyComplete
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\obj\Debug\net6.0\refint\HANAtoPostgreSyncApp.dll
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.genruntimeconfig.cache
+D:\ASm\PJ_CCS_ETL_Site-main - Copy\HANAtoPostgreSyncApp\obj\Debug\net6.0\ref\HANAtoPostgreSyncApp.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.Development.json
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.json
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.staticwebassets.runtime.json
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.exe
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.deps.json
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.runtimeconfig.json
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Humanizer.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.Bulk.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.AssemblyReference.cache
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfoInputs.cache
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfo.cs
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CoreCompileInputs.cache
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cs
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cache
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cache
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cs
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\scopedcss\bundle\HANAtoPostgreSyncApp.styles.css
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CopyComplete
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\refint\HANAtoPostgreSyncApp.dll
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.genruntimeconfig.cache
+D:\ASm\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\ref\HANAtoPostgreSyncApp.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.Development.json
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.json
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.staticwebassets.runtime.json
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.exe
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.deps.json
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.runtimeconfig.json
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Humanizer.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.Bulk.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Data.Odbc.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.AssemblyReference.cache
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfoInputs.cache
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfo.cs
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CoreCompileInputs.cache
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cs
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cache
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cache
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cs
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.sourcelink.json
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets\msbuild.HANAtoPostgreSyncApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets\msbuild.build.HANAtoPostgreSyncApp.props
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HANAtoPostgreSyncApp.props
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HANAtoPostgreSyncApp.props
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\scopedcss\bundle\HANAtoPostgreSyncApp.styles.css
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CopyComplete
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\refint\HANAtoPostgreSyncApp.dll
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.genruntimeconfig.cache
+D:\ETL\PJ_CCS_ETL_Site1\HANAtoPostgreSyncApp\obj\Debug\net6.0\ref\HANAtoPostgreSyncApp.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.AssemblyReference.cache
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfoInputs.cache
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.AssemblyInfo.cs
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.csproj.CoreCompileInputs.cache
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cache
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.RazorAssemblyInfo.cs
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\refint\HANAtoPostgreSyncApp.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\appsettings.json
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.staticwebassets.runtime.json
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.exe
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.deps.json
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.runtimeconfig.json
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\HANAtoPostgreSyncApp.pdb
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\Npgsql.Bulk.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\System.Data.Odbc.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets\msbuild.HANAtoPostgreSyncApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets\msbuild.build.HANAtoPostgreSyncApp.props
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HANAtoPostgreSyncApp.props
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HANAtoPostgreSyncApp.props
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\scopedcss\bundle\HANAtoPostgreSyncApp.styles.css
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPo.4F65AB09.Up2Date
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\HANAtoPostgreSyncApp.genruntimeconfig.cache
+C:\Users\ASM\Downloads\PJ_CCS_ETL_Site-asm\PJ_CCS_ETL_Site-asm\HANAtoPostgreSyncApp\obj\Debug\net6.0\ref\HANAtoPostgreSyncApp.dll

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="CCS" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Vanguard\\SyncSite\\HANAtoPostgreSyncApp\\obj\\Debug\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="HANAtoPostgreSyncApp.Models.DataContext" description="" value="Server=192.168.31.101; port=5432; user id = sap; password = sap2022; database=postgres; pooling = true;" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^D:\\Vanguard\\SyncSite\\HANAtoPostgreSyncApp\\obj\\Debug\\net6\.0\\PubTmp\\EFSQLScripts\\HANAtoPostgreSyncApp\.Models\.DataContext\.sql$" />
+  </parameter>
+</parameters>
